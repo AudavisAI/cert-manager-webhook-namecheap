@@ -17,6 +17,6 @@ entries:
     digest: 77fba8e2d64751fa652a3cd25f956b9e681b474538f2dcb4417c01e9caeeb6f1
     name: cert-manager-webhook-namecheap
     urls:
-    - cert-manager-webhook-namecheap-0.1.0.tgz
+    - cert-manager-webhook-namecheap-0.1.1.tgz
     version: 0.1.1
 generated: "2021-08-25T10:13:37.074047-07:00"
